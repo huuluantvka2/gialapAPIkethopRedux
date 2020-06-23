@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "SamSung",
+      "price": 500,
+      "rating": 3,
+      "src": "https://cdn.tgdd.vn/Products/Images/42/219314/samsung-galaxy-a21s-055620-045659-400x400.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Oppo Reno3",
+      "price": 200,
+      "rating": 4,
+      "src": "https://cdn.tgdd.vn/Products/Images/42/213591/oppo-reno3-trang-600x600-400x400.jpg"
+    },
+    {
+      "name": "Iphone 11",
+      "price": "500",
+      "rating": "3",
+      "src": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-11-red-400x400.jpg",
+      "id": 3
+    },
+    {
+      "name": "BeU Fit KW03",
+      "price": "234",
+      "rating": "1",
+      "src": "https://cdn.tgdd.vn/Products/Images/7077/217583/kingwear-kw03-ava-400x400.jpg",
+      "id": 4
+    },
+    {
+      "name": "Vsmart Joy3",
+      "price": "876",
+      "rating": "5",
+      "src": "https://cdn.tgdd.vn/Products/Images/42/219208/vsmart-joy-3-4gb-den-600x600-400x400.jpg",
+      "id": 5
+    }
+  ]
+}
